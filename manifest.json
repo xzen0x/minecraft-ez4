@@ -1,0 +1,12 @@
+{
+    "launcher_version": "1.0.0",
+    "pack_type": "mrpack",
+    "modpack_version": "1.0.0",
+    "modpack_url": "https://github.com/xzen0x/minecraft-ez4/releases/download/v1.0.0/modpack-1.0.0.mrpack",
+    "modpack_hash": "сюда_вставим_sha256_хеш_mrpack",
+    "server_ip": "IP_ТВОЕГО_СЕРВЕРА",
+    "server_port": 25565,
+    "min_ram": "2G",
+    "max_ram": "4G",
+    "changelog": "Первая версия сборки"
+}
