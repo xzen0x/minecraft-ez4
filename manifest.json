@@ -3,7 +3,6 @@
     "pack_type": "mrpack",
     "modpack_version": "1.0.0",
     "modpack_url": "https://github.com/xzen0x/minecraft-ez4/releases/download/v1.0.0/modpack-1.0.0.mrpack",
-    "modpack_hash": "2b5da64448038dbb100cd92bd362a5c98ad7d1e22027f986a38353d9dc9b45b5",
     "server_ip": "f1.rustix.me",
     "server_port": 35084,
     "min_ram": "4G",
