@@ -3,10 +3,10 @@
     "pack_type": "mrpack",
     "modpack_version": "1.0.0",
     "modpack_url": "https://github.com/xzen0x/minecraft-ez4/releases/download/v1.0.0/modpack-1.0.0.mrpack",
-    "modpack_hash": "сюда_вставим_sha256_хеш_mrpack",
-    "server_ip": "IP_ТВОЕГО_СЕРВЕРА",
-    "server_port": 25565,
-    "min_ram": "2G",
-    "max_ram": "4G",
+    "modpack_hash": "058fe752bb199cd1f3686adb8c5dcb41242a4af448c917c2ddf79bda4553e647",
+    "server_ip": "f1.rustix.me",
+    "server_port": 35084,
+    "min_ram": "4G",
+    "max_ram": "8G",
     "changelog": "Первая версия сборки"
 }
