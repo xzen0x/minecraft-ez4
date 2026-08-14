@@ -5,6 +5,7 @@
     "modpack_url": "https://github.com/xzen0x/minecraft-ez4/releases/download/v1.0.0/modpack-1.0.0.mrpack",
     "server_ip": "f1.rustix.me",
     "server_port": 35084,
+    "server_name": "ez4 Inc.",
     "min_ram": "4G",
     "max_ram": "8G",
     "changelog": "Первая версия сборки"
